@@ -1,0 +1,8 @@
+/node_modules
+/package-lock.json
+/public/out
+/env/
+/public/srt/
+/public/voicex
+.env
+/out/video.mp4
